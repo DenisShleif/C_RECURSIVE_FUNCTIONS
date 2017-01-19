@@ -20,3 +20,11 @@ List of Functions:
  - Q13:	Write a function that determines the square root of a real number r. Assume that r will be greater than or equal to 1.
  - Q14:	Write a function that finds an element key in an array of sorted integers A. If key is found then return the index of key in the array otherwise return -1 to indicate that it was not found. Assume that there are no duplicate elements in the array. Use a linear search.
  - Q15:	Repeat the previous question using a binary search.
+
+MAIN SKILLS USED:
+ - Recurisive functions
+ - String Manipulation
+ - Array Manipulation
+ - Binary Search
+ - Loops
+ - Pointers
