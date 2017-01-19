@@ -2,7 +2,9 @@
 
 This repository contains 15 small programs that demonstrate my knowledge of recursive functions. Each program performs a specific task listed below. Each program performs the task both recursively and iteratively.
 
-List of Functions
+
+List of Functions:
+
 Q1: 	Write a function to compute the nth term in the following sequence of numbers: 17, 26, 35, 44, 53, … Return the term.
 
 Q2: 	A sequence is defined by the following recurrence relation: t(n) = 7t(n-1) - 4t(n-2) - 9t(n-3) and the base case: t(1) = 0, t(2) = 5 and t(3) = 3. Write a function to determine t(n) given n.
